@@ -29,7 +29,7 @@ The project demonstrates the full pipeline of:
 ## 💻 Source Code
 
 * 🔗 **GitHub Repository:**
-  https://github.com/Sachindtu402/my_slm
+  https://github.com/Sachindtu402/my_slm#
 
 ---
 
